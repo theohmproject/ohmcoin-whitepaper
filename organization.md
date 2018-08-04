@@ -1,6 +1,9 @@
 The Ohm Organization
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> master
 Ohm was founded as a discussion on the chat program Discord. A large group of like-minded people came together and shared a semi-unified vision of a cryptocurrency that opposes the status quo. Having a large and diverse group of people fueled ideas like pouring kerosene on top of a fire. A fork of a previous coin was made, and Ohm was born. What went from an idea birthed into something real, and things had to get real to keep it going. Ohm has gone through many changes to settle into the original vision that everyone had when it started.
 
 Just as Ohm intends to change the world through acts of kindness, those principles of giving apply to the organization itself. All of Ohm’s employees are volunteers, giving their time and energy with nothing expected in return. Most of the employees have been rewarded for their kindness by being rewarded Ohm, some have been paid in cash, and some have received nothing at all because they refuse to accept anything in pursuit of our goals. The purpose is to have an organization which reflects the same beliefs we are trying to uphold through the currency and the community we are trying to build. No one person in Ohm is better or greater than another, and in order for the organization to be successful there are some key tenets that must be upheld:
@@ -10,6 +13,7 @@ Just as Ohm intends to change the world through acts of kindness, those principl
 * We are all volunteers. Ohm is not keeping lights on or paying bills. One day, we hope that Ohm is valuable enough to allow people to pursue this as their passion full-time and still be able to keep the lights on. However, even as a volunteer a commitment and dependability is needed to be successful. As little as one hour a week is enough as long as you commit to it and can be depended upon to accomplish small tasks.
 
 * There are still going to be people who just want to make money. The lure of cryptocurrency will draw people in who are opportunists and just want to earn some new coins and hope it is the next Bitcoin. While we aspire to be a valued cryptocurrency, it is not the purpose for what we do. Creating an organization almost purely online with virtual presence and remote volunteers all over the world creates challenges in itself aside from managing a company or any other organization. As a young organization, Ohm has overcome several of these challenges and realizes there are more to overcome.
+<<<<<<< HEAD
 =======
 Ohm was founded as a discussion in a chat program, Discord. A large group of like-minded people came together and shared a semi-unified vision of a cryptocurrency that opposes the status quo. Having a large, diverse group of people fueled ideas like pouring kerosene on top of a fire. A fork of a previous coin was made, and Ohm was born. What went from an idea birthed into something real, and things had to get real to keep it going. Ohm has gone through many changes to settle into the original vision that everyone had when it started.
 
@@ -22,3 +26,5 @@ Just as Ohm intends to change the world through acts of kindness, the principles
 * There are still going to be people who just want to make money. The lure of cryptocurrency will draw people in who are opportunists and just want to earn some new coins and hope it is the next bitcoin. While we aspire to be a valued cryptocurrency, it is not the purpose for what we do. 
 Creating an organization almost purely online with virtual presence and remote volunteers all over the world creates challenges in itself aside from managing a company or any other organization. As a young organization, Ohm has overcome several of these challenges and realizes there are more to overcome.
 >>>>>>> buddilla-patch-1
+=======
+>>>>>>> master
