@@ -1,10 +1,19 @@
-OHM
-What Is Ohm and Why Should I Care?
-A Primer on Ohm and the Acts of Kindness (AoK) Platform
+Abstract:
+A decentralized blockchain donation platform that is versatile, open source, and peer-to-peer for allocating funds to worthy causes. This avoids any political, national, social, cultural, or religious bias from influencing acceptance of a donation campaign. As well as ensures an anonymous voting structure maintained by a distributed network of masternodes (karmanodes). This allows donations to be transparent and well documented on blockchain ledgers.
+
+We purpose a governance structure entirely decentralized that enables a peer-to-peer voting network. This will allow everyone who uses OHMC as a currency to vote on the blockchain for important acts of kindness or open sourced technological innovations. This type of ecosystem can have far greater implications that we ask the reader to deduce.
+
   
 
-Introduction
-What is the meaning of value? What gives a currency its value, or anything for that matter? Is it a matter of necessity or perception? What if it’s both? Why does digital scarcity generate any tangible value with nothing more than supply and demand?
+Introduction:
+What is the meaning of value? What gives a currency its value, or anything for that matter? Is it a matter of necessity or perception? Or perhaps it is both? Why does digital scarcity generate any tangible value with nothing more than supply and demand? How does the implementation of an engineered design become accepted as currency and what effects do they have on our socio-economic design?
+Humans are subject to a list of physiological and psychological needs that have to be met on an individual basis. Our Primary needs being that of food, shelter, water, and happiness. Money is just an interference between what people need and what they are able to purchase.
+
+Our current social structure functions under the principle of scarcity and uses money as a medium of exchange. This produces a base for social problems as people have different physiological and psychological needs but it is essentially their purchasing power that decides to what degrees these needs could be met.
+Interest-bearing debt from fiat currency is another contributing factor in where money is minted and lent to countries in accordance with being in a debtor/creditor contract. This ensures that we are in a constant state of competition with one another and encourages behaviors of separation from natural laws. Laws that are based upon principle and truth inherent to all creation. Natural law which is eternally immutable for as long as the universe has and will exist. Creation and giving are the fundamental operators which we all take part in. This seems to be the progression of the universe with its established engineered design from which we do not know its origin completely.
+
+With the advent of open source cryptocurrency, we now have new options available for peer-to-peer economic activities that differ from the current means of socioeconomic operation. With the questions we have stated above, we have come up with a design that can ensure a non-bias donation platform that has lasting implications to the nature of exchanging goods and services.
+
 
 
 <<<<<<< HEAD
